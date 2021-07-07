@@ -1,5 +1,4 @@
 # Simple PC Installs
-Helpfull stuff when installing your PC!
 
 ### Usefull tools
 - [PatchMyPC](https://patchmypc.com/home-updater) - Its a easy to use program that helps you install your applications. If the program is already installed it will show you when its out-dated and allows you to update anything with one simple click.
