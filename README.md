@@ -16,6 +16,6 @@ Helpfull stuff when installing your PC!
 
 ### Customization
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/releases/tag/2020.2) - A lightweight utility that makes the Windows taskbar translucent/transparent on Windows 10.
-- [https://www.rainmeter.net/] (https://www.rainmeter.net/) - Rainmeter allows you to add certain widgets to the your desktop such as a clock, date and time, weather, custom taskbar and much more! It may not be as easy so set up though.
+- [Rainmeter] (https://www.rainmeter.net/) - Rainmeter allows you to add certain widgets to the your desktop such as a clock, date and time, weather, custom taskbar and much more! It may not be as easy so set up though.
 
 More Soon™ - for questions hit me up on Discord @ Stroopwafel#0041.
