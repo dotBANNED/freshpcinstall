@@ -23,4 +23,5 @@
 - [ShareX](https://getsharex.com/) - Free and useful screen capture, file sharing and productivity tool.
 - [Everything](https://www.voidtools.com/) - Find any file or folder by typing in its name. [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
 
+
 More Soon™ - for questions hit me up on Discord @ Stroopwafel#0041.
