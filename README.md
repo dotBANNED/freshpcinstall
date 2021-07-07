@@ -1,8 +1,8 @@
 # Simple PC Installs
 
 ### Usefull tools
-- [PatchMyPC](https://patchmypc.com/home-updater) - Its a easy to use program that helps you install your applications. If the program is already installed it will show you when its out-dated and allows you to update anything with one simple click.
-- [Ninite.com](https://ninite.com/) A website where you pick and choose the programs you want to install. It will make a custom .exe file for you to use to install or update your programs.
+- [PatchMyPC](https://patchmypc.com/home-updater) - Its a easy to use program that helps you install or update your applications. (Many programs)
+- [Ninite.com](https://ninite.com/) A website where you pick and choose the programs you want to installor update. (Only a few programs)
 
 ### Useful .bat file(s)
 - [UltimatePowerPlan](https://mega.nz/file/Lc90CDSS#Ql0yM_Ydij45vGrztxTCQ-eFlwpnnwdwC0rcKVm3o_A) - This mode enables your computer to use maximum performance for its hardware. [More Info](https://www.howtogeek.com/368781/how-to-enable-ultimate-performance-power-plan-in-windows-10/)
