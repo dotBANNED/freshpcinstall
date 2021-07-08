@@ -22,6 +22,7 @@
 - [Barrier](https://github.com/debauchee/barrier) - Barrier is a free program that allows you to use a single keyboard and mouse to control multiple computers. 
 - [ShareX](https://getsharex.com/) - Free and useful screen capture, file sharing and productivity tool.
 - [Everything](https://www.voidtools.com/) - Find any file or folder by typing in its name. [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
+- [RevoUninstaller](https://www.revouninstaller.com/) - Revo Uninstaller allows you to safely uninstall programs. It will check for remaining junk files and lets you remove them accordingly. Also has some other useful tools in its toolkit.
 
 
 More Soon™ - for questions hit me up on Discord @ Stroopwafel#0041.
