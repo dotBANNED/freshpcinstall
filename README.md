@@ -5,7 +5,7 @@
 - [Ninite.com](https://ninite.com/) - A website where you pick and choose the programs you want to installor update. (Only a few programs)
 
 ### Useful .bat file(s)
-- [UltimatePowerPlan](https://mega.nz/file/Lc90CDSS#Ql0yM_Ydij45vGrztxTCQ-eFlwpnnwdwC0rcKVm3o_A) - This mode enables your computer to use maximum performance for its hardware. [More Info](https://www.howtogeek.com/368781/how-to-enable-ultimate-performance-power-plan-in-windows-10/)
+- [UltimatePowerPlan](https://mega.nz/folder/uV00mDzL#JMPRgboghP9MwyR4ddu-YQ/file/HUkwxbJL) - This mode enables your computer to use maximum performance for its hardware. [More Info](https://www.howtogeek.com/368781/how-to-enable-ultimate-performance-power-plan-in-windows-10/)
 
 ### Registry Edits
 - [Disable UAC](https://mega.nz/folder/uV00mDzL#JMPRgboghP9MwyR4ddu-YQ) - Using this will disable the yes/no prompt when installing programs or other privelaged functions so use caution when installing programs.
